@@ -130,6 +130,7 @@ streamlit run app.py
 ├── backend.py            # AI Logic Router (Handles Google, Ollama, & Prototypes)
 ├── agent_graph.py        # LangGraph Simulation Module (Prototype)
 ├── requirements.txt      # Project Dependencies
+├── logo.png              # Project Branding & Icon
 └── README.md             # Documentation
 
 ```
@@ -147,6 +148,7 @@ To ensure a stable and crash-proof demonstration during the hackathon, this proj
 ---
 
 **Built for the Amulate Hackathon 2025 by Team AI Mechanics**
+
 
 
 
