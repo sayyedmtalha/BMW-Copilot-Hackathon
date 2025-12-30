@@ -2,7 +2,7 @@
 
 **The Context-Aware Intelligent Assistant for Connected Vehicles.**
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([(https://bmw-copilot-hackathon.streamlit.app/)])
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bmw-copilot-hackathon.streamlit.app/])
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![AI Engine](https://img.shields.io/badge/AI-Gemini%20%7C%20Llama-orange)](https://deepmind.google/technologies/gemini/)
 
@@ -10,7 +10,7 @@
 
 **BMW Copilot** is a hybrid-intelligence agent designed to maximize driver productivity while enforcing strict safety standards. It features a dynamic **Safety Lock** that disables complex cognitive tasks (like drafting emails) when the vehicle speed exceeds 80 km/h, ensuring the driver remains focused on the road.
 
-**🔗 Live Demo:** [Click here to launch the App]([(https://bmw-copilot-hackathon.streamlit.app/)]))
+**🔗 Live Demo:** [Click here to launch the App]([https://bmw-copilot-hackathon.streamlit.app/])
 
 The system runs on **DriveSafe OS v2.5**, utilizing a router to switch between cloud-based reasoning (Google Gemini) and offline edge computing (Llama 3.2) based on connectivity and user preference.
 
@@ -147,6 +147,7 @@ To ensure a stable and crash-proof demonstration during the hackathon, this proj
 ---
 
 **Built for the Amulate Hackathon 2025 by Team AI Mechanics**
+
 
 
 
