@@ -2,7 +2,7 @@
 
 **The Context-Aware Intelligent Assistant for Connected Vehicles.**
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://bmw-copilot-hackathon.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bmw-copilot-hackathon.streamlit.app/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![AI Engine](https://img.shields.io/badge/AI-Gemini%20%7C%20Llama-orange)](https://deepmind.google/technologies/gemini/)
 
@@ -147,6 +147,7 @@ To ensure a stable and crash-proof demonstration during the hackathon, this proj
 ---
 
 **Built for the Amulate Hackathon 2025 by Team AI Mechanics**
+
 
 
 
