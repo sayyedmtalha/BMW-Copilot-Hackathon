@@ -57,7 +57,7 @@ Follow these steps to get the application running on your local machine.
 
 ### **2. Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/BMW-Copilot.git](https://github.com/your-username/BMW-Copilot.git)
+git clone [https://github.com/sayyedmtalha/BMW-Copilot-Hackathon.git](https://github.com/sayyedmtalha/BMW-Copilot-Hackathon.git)
 cd BMW-Copilot
 ### **3. Install Python Dependencies**
 
@@ -124,7 +124,7 @@ streamlit run app.py
 ## 📂 Project Structure
 
 ```text
-/BMW-Copilot
+/BMW-Copilot-Hackathon
 │
 ├── app.py                # Main Application UI & Sidebar Logic
 ├── backend.py            # AI Logic Router (Handles Google, Ollama, & Prototypes)
@@ -148,6 +148,7 @@ To ensure a stable and crash-proof demonstration during the hackathon, this proj
 ---
 
 **Built for the Amulate Hackathon 2025 by Team AI Mechanics**
+
 
 
 
