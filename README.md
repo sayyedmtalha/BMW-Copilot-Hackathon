@@ -59,6 +59,7 @@ Follow these steps to get the application running on your local machine.
 ```bash
 git clone https://github.com/sayyedmtalha/BMW-Copilot-Hackathon.git
 cd BMW-Copilot-Hackathon
+```
 ### **3. Install Python Dependencies**
 
 ```bash
@@ -148,6 +149,7 @@ To ensure a stable and crash-proof demonstration during the hackathon, this proj
 ---
 
 **Built for the Amulate Hackathon 2025 by Team AI Mechanics**
+
 
 
 
